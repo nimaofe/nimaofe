@@ -3,6 +3,10 @@
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nimadaneshmand" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/nimadaneshmand?trk=profile-badge">Nima Daneshmand</a></div>
 
+![PAWN](https://github.com/nimaofe/nimaofe/blob/main/wired-flat-448-paws-animal.gif)
+
+
+
 ## About Me
 
 With a high level of focus and energy, I consistently delve deeply into and gain precise understanding of my areas of interest. As a flexible individual, I plan my life’s trajectory around the fields I am passionate about. By enhancing my language skills, I have aimed to expand my communication beyond my workplace and connect with individuals from various backgrounds, not limiting my assistance solely to my colleagues.
