@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style.css">
 
 
 ![Batman Figure](https://raw.githubusercontent.com/nimaofe/nimaofe/main/batman.svg)
@@ -14,3 +13,6 @@ I'm a data engineer passionate about coding and creativity. You can find more ab
 - [GitHub](https://github.com/nimaofe)
 - [Soundcloud](https://soundcloud.com/nimaofe)
 - [Telegram](https://t.me/nimaofe)
+
+
+<link rel="stylesheet" href="style.css">
