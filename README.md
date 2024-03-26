@@ -2,7 +2,6 @@
 <link rel="stylesheet" href="style.css">
 
 
-==
 ![AVATAR](https://github.com/nimaofe/nimaofe/blob/main/wired-flat-avatar.gif)
 ## About Me
 
@@ -10,7 +9,7 @@ With a high level of focus and energy, I consistently delve deeply into and gain
 
 From my work experiences in networking and security, monitoring, data center and organizational network management, troubleshooting, and system support, I have realized that every action impacts data analysis and have understood the relationship between database processes, operating systems, and software. Interested in exploration and learning, I dedicate my time to developing and expanding my knowledge in my areas of interest. My life is based on adventure, growth, and a deep understanding of concepts, and I have always aimed to reach my best version.. You can find more about me on my [personal website](https://datasguide.com/).
 
-==
+
 ![PAWN](https://github.com/nimaofe/nimaofe/blob/main/wired-flat-pawn.gif)
 ## Connect with Me 
 
