@@ -1,100 +1,33 @@
-/* Animated GitHub Profile CSS */
-
-/* Body styles */
+/* Body */
 body {
-    background-color: #f0f0f0;
     font-family: Arial, sans-serif;
-    overflow-x: hidden;
+    background-color: #f0f0f0; /* Light gray background */
+    color: #333; /* Dark text color */
 }
 
-/* Container styles */
-.container {
-    max-width: 800px;
-    margin: 0 auto;
+/* Header */
+.header {
+    background-color: #2ecc71; /* Green header background */
     padding: 20px;
-}
-
-/* Profile header styles */
-.profile-header {
     text-align: center;
-    margin-bottom: 30px;
+    color: white; /* White text color */
 }
 
-.profile-header img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 5px solid #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    animation: pulse 2s infinite alternate;
+.header h1 {
+    margin: 0;
+    font-size: 36px;
 }
 
-.profile-header h1 {
-    font-size: 24px;
-    margin-top: 10px;
-}
-
-/* Navigation styles */
-.nav-links {
-    text-align: center;
-    margin-bottom: 30px;
-}
-
-.nav-links a {
-    margin: 0 10px;
-    color: #333;
-    text-decoration: none;
-    font-weight: bold;
-    transition: color 0.3s;
-}
-
-.nav-links a:hover {
-    color: #007bff;
-}
-
-/* Content styles */
-.content {
-    text-align: center;
-}
-
-/* Repository styles */
-.repository {
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 5px;
+/* Main content */
+.main-content {
     padding: 20px;
-    margin-bottom: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    animation: slide-up 0.5s ease;
+    text-align: center;
 }
 
-.repository h3 {
-    font-size: 20px;
-    margin-bottom: 10px;
-}
-
-.repository p {
-    font-size: 16px;
-    color: #666;
-}
-
-/* Keyframes */
-@keyframes pulse {
-    0% {
-        transform: scale(1);
-    }
-    100% {
-        transform: scale(1.05);
-    }
-}
-
-@keyframes slide-up {
-    0% {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-    100% {
-        opacity: 1;
-        transform: translateY(0);
-    }
+/* Footer */
+.footer {
+    background-color: #2ecc71; /* Green footer background */
+    padding: 10px;
+    text-align: center;
+    color: white; /* White text color */
 }
