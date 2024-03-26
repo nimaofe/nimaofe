@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="style.css">
 
-# Hello, I'm Nimaofe!
 
 ![Batman Figure](https://raw.githubusercontent.com/nimaofe/nimaofe/main/batman.svg)
 
