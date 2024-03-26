@@ -1,6 +1,5 @@
 
-
-![Batman Figure](https://raw.githubusercontent.com/nimaofe/nimaofe/main/batman.svg)
+<link rel="stylesheet" href="style.css">
 
 ## About Me
 
@@ -15,4 +14,4 @@ I'm a data engineer passionate about coding and creativity. You can find more ab
 - [Telegram](https://t.me/nimaofe)
 
 
-<link rel="stylesheet" href="style.css">
+
