@@ -17,6 +17,8 @@ From my work experiences in networking and security, monitoring, data center and
   </div>
 <div align="center">
   
+  ![PAWS](https://github.com/nimaofe/nimaofe/blob/main/wired-paws.gif)
+## Connect with Me 
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/nimadaneshmand/)](https://www.linkedin.com/in/nimadaneshmand/)
    ![](https://komarev.com/ghpvc/?username=nimadaneshmand)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/nimaofe)](https://t.me/nimaofe)
@@ -43,17 +45,12 @@ From my work experiences in networking and security, monitoring, data center and
 
 ![nima's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimaofe&show_icons=true&theme=cobalt)
 
-
+- [Soundcloud](https://soundcloud.com/nimaofe)
+- [Telegram](https://t.me/nimaofe)
 
 </div>
 
-![PAWS](https://github.com/nimaofe/nimaofe/blob/main/wired-paws.gif)
-## Connect with Me 
 
-- [LinkedIn](https://www.linkedin.com/in/nimadaneshmand?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZZ74bQpSRX2SBfTCc06WWA%3D%3D)
-- [GitHub](https://github.com/nimaofe)
-- [Soundcloud](https://soundcloud.com/nimaofe)
-- [Telegram](https://t.me/nimaofe)
 
 
 
