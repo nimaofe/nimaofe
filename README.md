@@ -13,3 +13,6 @@ I'm a developer passionate about coding and creativity. You can find more about 
 - [Twitter](https://twitter.com/nimaofe)
 - [LinkedIn](https://www.linkedin.com/in/nimaofe)
 - [GitHub](https://github.com/nimaofe)
+
+  ![Batman Figure](batman.svg)
+
