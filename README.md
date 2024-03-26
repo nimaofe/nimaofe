@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a developer passionate about coding and creativity. You can find more about me on my [personal website]([https://www.nimaofe.com](https://datasguide.com/)).
+I'm a data engineer passionate about coding and creativity. You can find more about me on my [personal website]([https://www.nimaofe.com](https://datasguide.com/)).
 
 ## Connect with Me
 
