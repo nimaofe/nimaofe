@@ -3,9 +3,6 @@
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nimadaneshmand" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/nimadaneshmand?trk=profile-badge">Nima Daneshmand</a></div>
 
-![PAWN](https://github.com/nimaofe/nimaofe/blob/main/wired-flat-448-paws-animal.gif)
-
-
 
 ## About Me
 
@@ -15,7 +12,7 @@ From my work experiences in networking and security, monitoring, data center and
 
 
 ## Connect with Me 
-
+![PAWN](https://github.com/nimaofe/nimaofe/blob/main/wired-flat-pawn.gif)
 
 - [LinkedIn](https://www.linkedin.com/in/nimadaneshmand?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZZ74bQpSRX2SBfTCc06WWA%3D%3D)
 - [GitHub](https://github.com/nimaofe)
