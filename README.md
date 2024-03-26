@@ -8,7 +8,8 @@ With a high level of focus and energy, I consistently delve deeply into and gain
 From my work experiences in networking and security, monitoring, data center and organizational network management, troubleshooting, and system support, I have realized that every action impacts data analysis and have understood the relationship between database processes, operating systems, and software. Interested in exploration and learning, I dedicate my time to developing and expanding my knowledge in my areas of interest. My life is based on adventure, growth, and a deep understanding of concepts, and I have always aimed to reach my best version.. You can find more about me on my [personal website](https://datasguide.com/).
 
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nimadaneshmand" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/nimadaneshmand?trk=profile-badge">Nima Daneshmand</a></div>
+              
 ## Connect with Me 
 
 
