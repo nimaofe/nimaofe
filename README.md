@@ -48,9 +48,6 @@ From my work experiences in networking and security, monitoring, data center and
 
 
 </div>
-- [Soundcloud](https://soundcloud.com/nimaofe)
-
-
 
 
 
