@@ -2,8 +2,6 @@
 
 # Hello, I'm Nimaofe!
 
-Check out my animated Batman figure:
-
 ![Batman Figure](https://raw.githubusercontent.com/nimaofe/nimaofe/main/batman.svg)
 
 ## About Me
