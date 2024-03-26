@@ -32,7 +32,7 @@ From my work experiences in networking and security, monitoring, data center and
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
+![MSSQL](https://img.shields.io/badge/-SQL-000?&logo=MSSQL)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Apache%20Kafka)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
