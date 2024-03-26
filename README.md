@@ -10,8 +10,6 @@ From my work experiences in networking and security, monitoring, data center and
 
 
 ## Connect with Me 
-[Download JSON File]([path/to/your/json/file.json](https://github.com/nimaofe/nimaofe/blob/main/wired-paws-animal.json)
-
 
 
 - [LinkedIn](https://www.linkedin.com/in/nimadaneshmand?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZZ74bQpSRX2SBfTCc06WWA%3D%3D)
