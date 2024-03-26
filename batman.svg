@@ -1,44 +1,15 @@
-{
-  "head": {
-    "type": "circle",
-    "cx": 100,
-    "cy": 100,
-    "r": 50,
-    "fill": "#000"
-  },
-  "eyes": [
-    {
-      "type": "circle",
-      "cx": 80,
-      "cy": 80,
-      "r": 10,
-      "fill": "#fff"
-    },
-    {
-      "type": "circle",
-      "cx": 120,
-      "cy": 80,
-      "r": 10,
-      "fill": "#fff"
-    }
-  ],
-  "mouth": {
-    "type": "path",
-    "d": "M 80 120 Q 100 140 120 120",
-    "fill": "none",
-    "stroke": "#fff",
-    "stroke-width": 2
-  },
-  "ears": [
-    {
-      "type": "path",
-      "d": "M 50 50 Q 30 70 40 80 Q 60 60 70 30 Z",
-      "fill": "#000"
-    },
-    {
-      "type": "path",
-      "d": "M 150 50 Q 170 70 160 80 Q 140 60 130 30 Z",
-      "fill": "#000"
-    }
-  ]
-}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Head -->
+  <circle cx="100" cy="100" r="80" fill="black" />
+
+  <!-- Eyes -->
+  <circle cx="70" cy="70" r="10" fill="white" />
+  <circle cx="130" cy="70" r="10" fill="white" />
+
+  <!-- Mouth -->
+  <path d="M 70 120 Q 100 150 130 120" fill="none" stroke="white" stroke-width="5"/>
+
+  <!-- Ears -->
+  <path d="M 30 30 Q 10 50 20 60 Q 40 40 50 20 Z" fill="black" />
+  <path d="M 170 30 Q 190 50 180 60 Q 160 40 150 20 Z" fill="black" />
+</svg>
