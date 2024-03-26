@@ -17,7 +17,9 @@ From my work experiences in networking and security, monitoring, data center and
   </p>
   </div>
 <div align="center">
+
   
+  ![PAWS](https://github.com/nimaofe/nimaofe/blob/main/wired-paws.gif)
   ![PAWS](https://github.com/nimaofe/nimaofe/blob/main/wired-paws.gif)
 ## Connect with Me 
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=www.linkedin.com/in/nimadaneshmand/)](https://www.linkedin.com/in/nimadaneshmand/)
